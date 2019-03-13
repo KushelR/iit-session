@@ -1,7 +1,4 @@
 Initial Text
 First Commit | test branch
-<<<<<<< HEAD
 Second Commit | Master
-=======
 Second Commit | merge branch
->>>>>>> merge-branch
